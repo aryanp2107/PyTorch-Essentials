@@ -1,4 +1,4 @@
-# PyTorch Learning
+# Learning PyTorch
  
 A collection of notebooks and scripts documenting my PyTorch learning journey — covering core concepts, neural network architectures, and hands-on experiments.
  
